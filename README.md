@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="0093f85d-e162-4dd1-8b0e-8b89eb9e556e" src="https://github.com/user-attachments/assets/80d10fb7-0c07-4470-9ce9-07a06ad0d2e6" /># 🚀 Netflix DevOps Deployment – CI/CD, Terraform, AWS, Monitoring
+# 🚀 Netflix DevOps Deployment – CI/CD, Terraform, AWS, Monitoring
 
 This repository showcases a **hands-on DevOps project** that simulates a real-world deployment workflow by deploying a Netflix clone application with **automated CI/CD pipelines**, **infrastructure as code**, and **monitoring/observability** on AWS.
 
@@ -27,7 +27,7 @@ This repository showcases a **hands-on DevOps project** that simulates a real-wo
 
 ## 🏗️ Architecture
 
-![Architecture] [Uploading 0093f85d-e162-4dd1-8b0e-8b89eb9e556e.png…]
+<img width="1536" height="1024" alt="0093f85d-e162-4dd1-8b0e-8b89eb9e556e" src="https://github.com/user-attachments/assets/80d10fb7-0c07-4470-9ce9-07a06ad0d2e6" />
 
 
 ---
