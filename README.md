@@ -87,14 +87,6 @@ Import Grafana dashboard from grafana-dashboards.json
 Prometheus: http://<prometheus-server>:9090
 Grafana: http://<grafana-server>:3000
 
-📷 Screenshots
-✅ Jenkins pipeline execution
-🎬 Netflix app running on Tomcat
-📈 Grafana dashboards with metrics
-
-<img width="1916" height="1079" alt="1756962901785" src="https://github.com/user-attachments/assets/586b6ef8-ebd6-41bf-be34-493e63177cef" />
-
-
 
 📚 Learnings
 
