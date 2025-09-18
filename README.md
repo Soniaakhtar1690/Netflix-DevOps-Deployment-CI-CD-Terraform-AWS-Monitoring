@@ -91,15 +91,8 @@ Grafana: http://<grafana-server>:3000
 ✅ Jenkins pipeline execution
 🎬 Netflix app running on Tomcat
 📈 Grafana dashboards with metrics
-<img width="1000" height="800" alt="0093f85d-e162-4dd1-8b0e-8b89eb9e556e" src="1756962902048](https://github.com/user-attachments/assets/e2b6211a-a60f-4496-818c-64203fff28d6" />
-
-[1756962903707](https://github.com/user-attachments/assets/d596212a-5585-4421-948e-f26f6d744ee2)
-[1756962901785](https://github.com/user-attachments/assets/76e4b43a-e4f9-4b92-989a-e01f57d98562)
-[1756962902305](https://github.com/user-attachments/assets/38e6afcc-a645-4f8a-b78b-b0075f336e53)
-[1756962901826](https://github.com/user-attachments/assets/07282828-6415-4b06-9798-c5711f45f086)
-[1756962903078](https://github.com/user-attachments/assets/a40b0a47-b99e-4cfe-b1aa-a534ad0ded93)
-[1756962903707 (1)](https://github.com/user-attachments/assets/4301e866-cba3-417c-8db2-23f0df44a486)
-[1756962902077](https://github.com/user-attachments/assets/b022459d-6b36-4202-8d49-0c40ae0c8ccb)
+[1756962903078](https://github.com/user-attachments/assets/1158b55a-d8b8-4eae-b202-e4c2abf56760)
+<img width="1536" height="1024" alt="0093f85d-e162-4dd1-8b0e-8b89eb9e556e" src="https://github.com/user-attachments/assets/1158b55a-d8b8-4eae-b202-e4c2abf56760" />
 
 
 📚 Learnings
