@@ -91,8 +91,9 @@ Grafana: http://<grafana-server>:3000
 ✅ Jenkins pipeline execution
 🎬 Netflix app running on Tomcat
 📈 Grafana dashboards with metrics
-[1756962903078](https://github.com/user-attachments/assets/1158b55a-d8b8-4eae-b202-e4c2abf56760)
-<img width="1536" height="1024" alt="0093f85d-e162-4dd1-8b0e-8b89eb9e556e" src="https://github.com/user-attachments/assets/1158b55a-d8b8-4eae-b202-e4c2abf56760" />
+
+<img width="1916" height="1079" alt="1756962901785" src="https://github.com/user-attachments/assets/586b6ef8-ebd6-41bf-be34-493e63177cef" />
+
 
 
 📚 Learnings
